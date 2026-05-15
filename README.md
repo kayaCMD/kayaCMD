@@ -7,7 +7,7 @@
 Se você está visitando este perfil, seja muito bem-vindo!  
 Provavelmente veio pelo meu portfólio — e embora eu ainda não tenha muito para mostrar, já quero me apresentar.
 
-Meu nome é **Kayã Lucas**, tenho **22 anos** e atualmente trabalho como industriário, mas estou em busca da minha primeira oportunidade na área de **Tecnologia**.  
+Meu nome é **Kayã Lucas**, tenho **23 anos** e atualmente trabalho como industriário, mas estou em busca da minha primeira oportunidade na área de **Tecnologia**.  
 Estou cursando **Análise e Desenvolvimento de Sistemas (4º período)** e já chegando na reta final da graduação.
 
 Tenho conhecimento básico em **Kotlin** e **C++**, além de interesse crescente por projetos de hardware com **Arduino**, sensores e robótica.
